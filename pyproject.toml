@@ -2,6 +2,9 @@
 name = "vissotia-assistant-mvp"
 version = "0.1.0"
 description = "MVP académico del Asistente Vissotia con Gemini, RAG, LangGraph y Streamlit."
+authors = [
+    { name = "Job Delgado Iniesta" },
+]
 readme = "README.md"
 requires-python = ">=3.11,<3.15"
 keywords = ["gemini", "rag", "langgraph", "chromadb", "streamlit"]
