@@ -1,0 +1,31 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated vector data and local outputs
+data/chroma/
+artifacts/
+logs/
+output/
+.codex-docx-build/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.DS_Store
+.vscode/
+.idea/
+
+# Local course inventory (not part of the public MVP)
+01_INVENTARIO_MATERIALES_CLASE.md
