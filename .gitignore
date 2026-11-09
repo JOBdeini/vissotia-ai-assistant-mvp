@@ -28,4 +28,4 @@ output/
 .idea/
 
 # Local course inventory (not part of the public MVP)
-01_INVENTARIO_MATERIALES_CLASE.md
+docs/project/01_INVENTARIO_MATERIALES_CLASE.md

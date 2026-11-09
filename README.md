@@ -276,7 +276,8 @@ Las pruebas cubren:
 ├── notebooks/
 │   └── Asistente_Vissotia_Proyecto_Final.ipynb
 ├── docs/
-│   └── Presentacion_Asistente_Vissotia.pptx
+│   ├── Presentacion_Asistente_Vissotia.pptx
+│   └── project/              # Contexto, decisiones y especificaciones
 ├── data/
 │   ├── public_sources/       # Documentos públicos aprobados
 │   ├── processed/            # Chunks auditables
