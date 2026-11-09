@@ -1,6 +1,6 @@
 # Asistente Vissotia
 
-![Asistente Vissotia: Gemini, RAG, LangGraph y Streamlit](docs/assets/github-social-preview.png)
+![Asistente Qué es Vissotia: explicación para vender inmuebles con Gemini, RAG, LangGraph y Streamlit](docs/assets/github-social-preview.png)
 
 MVP académico de un asistente público sobre Vissotia construido con Google Gemini, RAG,
 ChromaDB, LangGraph y Streamlit.
